@@ -1,4 +1,4 @@
-# DOCs..
+# DOCs.
 services:
   geth: # this is Optimism's geth client
     build: .
